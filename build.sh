@@ -1,0 +1,1 @@
+gnuplot data1.gnu
